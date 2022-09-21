@@ -4,6 +4,10 @@
       "main": "src/pigeon_backend/main.mo",
       "type": "motoko"
     },
+    "pigeon_users": {
+      "main": "src/pigeon_users/Avatar.mo",
+      "type": "motoko"
+    },
     "pigeon_frontend": {
       "dependencies": [
         "pigeon_backend"

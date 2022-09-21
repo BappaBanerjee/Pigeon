@@ -11,12 +11,12 @@ img {
 }
 
 form {
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     gap: 0.5em;
     flex-flow: row wrap;
-    max-width: 40vw;
-    margin: auto;
+    /* max-width: 40vw; */
+    /* margin: auto; */
     align-items: baseline;
 }
 
